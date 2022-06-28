@@ -1,3 +1,5 @@
+# fanbook-authentication-bot-server
+基于腾讯文档的身份认证Bot，服务端端源码
 该项目基于fanbook开放平台开发与腾讯文档开发，实现读取腾讯文档内容匹配fanbook绑定的手机号分配指定角色
 
 初始化操作：
