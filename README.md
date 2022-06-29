@@ -1,6 +1,7 @@
 # fanbook-authentication-bot-server
 
 该项目基于jdk11开发
+只是简单实现，使用的时候需要再次改造
 用于fanbook服务器与腾讯文档绑定，实现腾讯文档中配置信息与fanbook绑定的手机号匹配并且分配指定角色
 ## 初始化操作：
 
