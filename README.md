@@ -25,3 +25,9 @@ t_mobile_temp 用户临时表
 t_record 用户认证记录表
 t_word fanbook服务器与腾讯文档关联表
 ```
+
+## Fanbook
+
+[开放平台](https://open.fanbook.mobi/)
+
+[开发者文档](https://open.fanbook.mobi/document/manage/doc/)
